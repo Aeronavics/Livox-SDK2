@@ -17,4 +17,4 @@ if (UNIX)
 endif(UNIX)
 
 add_subdirectory(sdk_core)
-add_subdirectory(samples)
+# add_subdirectory(samples)
